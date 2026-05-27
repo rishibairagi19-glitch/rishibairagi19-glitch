@@ -28,6 +28,7 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
+| 🛍️ **Market** | Online category marketplace space | HTML, CSS, JS | [Visit](https://market-three-ashy.vercel.app/) |
 | 🥛 **Milk-Wender** | Dairy management & delivery system | React, Python, Database | [Visit](https://milk-wender.vercel.app/) |
 | 📷 **Passport Photo** | AI-powered passport photo generator | HTML, CSS, JS | [Visit](https://passport-size-photo-nine.vercel.app/) |
 | 💰 **Accountancy Pro** | Financial tracking dashboard | Python, React | [Visit](https://accountancy-pro.vercel.app/) |
@@ -54,13 +55,13 @@
 
 <p align="left">
   <a href="https://www.topcoder.com/members/458001" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" width="40" height="40" style="margin-right: 10px;"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" width="40" height="40"/>
   </a>
   <a href="https://twitter.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 10px;"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/rishi-bairagi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:rishibairagi19@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="40" height="40"/>
@@ -91,6 +92,7 @@
 
 - ✨ Enhanced personal portfolio
 - 🚀 Launched Milk-Wender platform
+- 🛍️ Created Market - Online marketplace space
 - 📚 Learning database optimization
 - 💼 Building scalable applications
 
