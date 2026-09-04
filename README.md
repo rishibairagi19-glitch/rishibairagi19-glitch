@@ -34,7 +34,7 @@
 | 💰 **Accountancy Pro** | Financial tracking & analytics dashboard | React, Python, PostgreSQL | [Visit](https://accountancy-pro.vercel.app/) ✅ |
 | 📷 **Passport Photo Generator** | AI-powered passport photo creation tool | React, Python, PIL | [Visit](https://passport-size-photo-nine.vercel.app/) ✅ |
 | 🍜 **Niche Project** | Specialized project for niche market solutions | React, Node.js, MongoDB | [Visit](https://niche-project-rishi.vercel.app/) ✅ |
-| 🥛 **Milk Vendor** | Milk delivery & management system | React, Node.js, MongoDB | [Visit](https://milk-vendor.vercel.app/) ✅ |
+| 🥛 **Milk Vendor** | Milk delivery & management system | React, Node.js, MongoDB | [Visit](https://accountancy-theta.vercel.app/) ✅ |
 
 ---
 
