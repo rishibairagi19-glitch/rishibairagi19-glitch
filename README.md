@@ -28,6 +28,7 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
+| 🥗 **DietmanDSaur** | AI-powered diet & nutrition management system | React, Python, AI | [Visit](#) |
 | 🛍️ **Market** | Online category marketplace space | HTML, CSS, JS | [Visit](https://market-three-ashy.vercel.app/) |
 | 🥛 **Milk-Wender** | Dairy management & delivery system | React, Python, Database | [Visit](https://milk-wender.vercel.app/) |
 | 📷 **Passport Photo** | AI-powered passport photo generator | HTML, CSS, JS | [Visit](https://passport-size-photo-nine.vercel.app/) |
@@ -90,6 +91,7 @@
 
 ## 🎨 Recent Activity
 
+- 🥗 Building DietmanDSaur - AI-powered nutrition management platform
 - ✨ Enhanced personal portfolio
 - 🚀 Launched Milk-Wender platform
 - 🛍️ Created Market - Online marketplace space
