@@ -31,10 +31,8 @@
 |---------|-------------|-----------|--------|
 | 🥗 **DietmanDSaur** | AI-powered diet & nutrition management system | React, Python, TensorFlow | [Visit](https://diet-mandsaur-rh3j.vercel.app/) ✅ |
 | 🛍️ **Market** | Online category marketplace platform | React, Node.js, MongoDB | [Visit](https://market-three-ashy.vercel.app/) ✅ |
-| 💰 **Accountancy Pro** | Financial tracking & analytics dashboard | React, Python, PostgreSQL | [Visit](https://accountancy-pro.vercel.app/) ✅ |
-| 📷 **Passport Photo Generator** | AI-powered passport photo creation tool | React, Python, PIL | [Visit](https://passport-size-photo-nine.vercel.app/) ✅ |
-| 🍜 **Niche Project** | Specialized project for niche market solutions | React, Node.js, MongoDB | [Visit](https://niche-project-rishi.vercel.app/) ✅ |
-| 🥛 **Milk Vendor** | Milk delivery & management system | React, Node.js, MongoDB | [Visit](https://accountancy-theta.vercel.app/) ✅ |
+| 💰 **Accountancy Pro** | Financial tracking & analytics dashboard | React, Python, PostgreSQL | [Visit](https://accountancy-theta.vercel.app/) ✅ |
+| 🥛 **Milk Vendor** | Milk delivery & management system | React, Node.js, MongoDB | [Visit](https://mik-vender-qi3b.vercel.app/) ✅ |
 
 ---
 
